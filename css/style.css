@@ -1,0 +1,120 @@
+.con {
+    background: #24353F;
+}
+
+h1 {
+    color: #17A2B8;
+    margin-bottom: 20px;
+}
+
+body {
+    background-color: #24353F;
+
+}
+.con3{
+    width: 70% !important;
+}
+.btn-outline-warning{
+    color:rgba(255,255,255,.5)
+}
+.redalert2{
+    color: #dc3545;
+}
+.SMARTLOGIN {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.navbar-brand{
+    color: white;
+}
+.navbar-expand-lg{
+    background-color: #24353F;
+    box-shadow: 0 0 40px 1px rgba(0, 0, 0, 1);
+}
+
+.naavbar{padding: 0;
+    background-color: #24353F;
+    box-shadow: 0 0 40px 1px rgba(0, 0, 0, 1);
+}
+.bodydiv {
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #24353F;
+}
+
+.con {
+    width: 55%;
+    box-shadow: 0 0 40px 1px rgba(0, 0, 0, 1);
+}
+
+.con2 {
+    width: 55%;
+    background: #24353F;
+    box-shadow: 0 0 40px 1px rgba(0, 0, 0, 1);
+}
+
+.form-control {
+    background-color: transparent;
+    border: 1px solid #ced4da;
+    margin-bottom: 20px;
+
+}
+@media (max-width:991px) {
+    .signoutbtn{
+        width: 100%;
+    }
+}
+.placeholderr::placeholder {
+    color: #ced4da;
+}
+
+.form-control:focus {
+    background-color: #24353F;
+    color: white;
+    box-shadow: none;
+    border: 1px solid#17A2B8;
+}
+
+.redalert {
+    color: #dc3545;
+}
+.redalert4{
+    color: #dc3545;
+}
+.success {
+    color: #28a745;
+
+}
+
+.btn-outline-info:hover {
+    color: white;
+
+}
+
+.btn-outline-info:focus {
+    box-shadow: 0px 0px 5px #17A2B8;
+
+}
+
+.underbtn {
+    color: white;
+    margin-top: 30px;
+
+
+}
+
+.signup:hover {
+    text-decoration: underline;
+
+
+}
+
+
+.signup {
+    text-decoration: none;
+    color: white;
+    transition: all .4s;
+}
